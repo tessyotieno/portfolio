@@ -1,0 +1,28 @@
+body{
+  background-color:rgb(185, 151, 109);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: x-large;
+  font-style: normal;
+
+}
+
+h1{
+    color: rgb(22, 3, 19);
+    position: relative;
+    font-size:xx-large;
+    font-weight: 500;
+    font-style: oblique;
+  
+    }
+
+
+img{
+    width: 400px;
+    height: 400px;
+    float: right;
+  margin-right: 20px;
+}
+
+h1{
+  font-size: xx-large;
+}
